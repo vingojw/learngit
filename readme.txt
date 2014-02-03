@@ -6,3 +6,4 @@ Git tracks changes.
 ..
 ..
 用notepad++ 保存utf-8 无BOM格式。这样汉字才能正常显示。
+Create a new branch is quick & simple
