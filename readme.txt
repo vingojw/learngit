@@ -1,7 +1,7 @@
 Git is a distributed version control system.
 Git is  a free software distributed under the GPL.1
 Git has a mutable index called stage.啊啊啊a 啊
-Git tracks changes.
+Git tracks changes
 44
 ..
 ..
